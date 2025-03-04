@@ -1,2 +1,2 @@
-# .github
-Welcome to AIBlaze Studio
+# AIBlaze Studio
+Welcome to AIBlaze Studio.
